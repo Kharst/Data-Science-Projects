@@ -16,8 +16,13 @@ This repository showcases a diverse range of data science and analytics projects
 **Skills and Expertise**:
 
 **Data Acquisition and Cleaning**: Proficiency in extracting, cleaning, and preparing diverse datasets for analysis.
+
 **Statistical Modeling**: Application of statistical methods to draw meaningful inferences from data.
+
 **Machine Learning**: Building and deploying predictive models to uncover hidden patterns and optimize outcomes.
+
 **Data Visualization**: Creating impactful visualizations to communicate complex insights effectively.
+
 **Programming Proficiency**: Expertise in Python, R, or other relevant programming languages.
+
 **Problem-Solving**: A strong ability to define problems, develop solutions, and deliver actionable results.
