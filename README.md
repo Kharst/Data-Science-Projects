@@ -1,5 +1,5 @@
 # Data-Science-Projects
-** Exploring the Power of Data**
+**Exploring the Power of Data**
 
 This repository showcases a diverse range of data science and analytics projects that demonstrate my ability to transform raw data into actionable insights. By combining statistical modeling, machine learning, and data visualization techniques, I have developed solutions across various domains, including agriculture, finance, and automation.
 
